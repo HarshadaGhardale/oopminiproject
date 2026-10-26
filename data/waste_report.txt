@@ -1,0 +1,22 @@
+============================================
+       FOOD WASTE AND EXPIRY REPORT
+============================================
+
+Estimated total inventory value: Rs. 1020.00
+Estimated expired stock value: Rs. 75.00
+
+EXPIRED FOOD ITEMS STILL IN STOCK
+--------------------------------------------
+ID: 7
+Name: chocolate
+Category: Dairy
+Remaining quantity: 5.00 pcs
+Unit price: Rs. 15.00
+Estimated value: Rs. 75.00
+Expiry date: 2026-10-20
+
+
+Total expired item records: 1
+
+Note: This report estimates the value of expired stock.
+It does not independently track food already discarded.
